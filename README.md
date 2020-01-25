@@ -2,6 +2,7 @@
 ![Alt Text](Home-Credit-logo.jpg)
 
 # Introduction
+This porject was done for the Predictive Modeling coursework under the guidance of [Prof. Carlos Carvalho](https://www.mccombs.utexas.edu/Directory/Profiles/Carvalho-Carlos)<br />
 Home Credit is a non-banking financial institution that strives to broaden the financial inclusion by offering positive and safe borrowing experience to people with little or no credit history. Providing loan to these people opens them up to the risks of defaulting. To tackle this and to ensure that clients capable of repayment are not rejected, they put up a challenge in Kaggle
 
 # Data Overview
